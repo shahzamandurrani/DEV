@@ -1,0 +1,5 @@
+img{ /* Centering the image */
+    display: block;
+    width: 200px;
+    margin: 0 auto; 
+}
