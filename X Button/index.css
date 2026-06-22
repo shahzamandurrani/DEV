@@ -1,0 +1,13 @@
+button{
+    border: 1px solid #cfd9de;
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: bold;
+    color: #0f1419;
+    background-color: #f0f3f5;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width:auto;
+    margin-top: 200px;
+}
