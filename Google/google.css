@@ -1,6 +1,6 @@
-div{
+.main{
     margin-top: 100px;
-    text-align: center;     
+    /* text-align: center;   */
 }
 
 input{
@@ -25,11 +25,17 @@ img{
 }
 
 .btn{
-    width: auto;
     margin-top: 20px;
+    margin-right: 4px;
+    margin-right: 4px;
     padding: 10px 20px;
     border: 1px solid #dfd1ef;
     border-radius: 4px;
     background-color: #dfe1e5;
     font-size: 14px;
+}
+
+.btn-wrapper{
+    display: flex;
+    justify-content: center;
 }
