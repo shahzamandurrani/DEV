@@ -16,3 +16,10 @@ body{
     font-family: inherit;
 }
 
+.undrln{
+    border-bottom: 4px solid white;
+}
+
+#logo{
+    width: 100px;
+}
