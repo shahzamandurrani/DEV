@@ -1,6 +1,13 @@
 let count = 0
 
 function increment() {
-    count = count + 1
+    count += 1
     document.getElementById("count-el").innerText = count
+}
+
+msg = document.getElementById("save-el")
+msg.innerText = "Previous Entries: "
+
+function save() {
+    msg.innerText += " " + count + " - "
 }
