@@ -18,8 +18,14 @@ button{
     cursor: pointer;
     color: white;
     font-weight: bold;
+    border: 1px solid #5f9341;
     padding: 6px 12px;
     background-color: #5f9341;
+}
+
+#delete-btn{
+    background-color: white;
+    color: #5f9341;
 }
 
 ul{
